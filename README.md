@@ -20,7 +20,7 @@ wget http://mirrors.tuna.tsinghua.edu.cn/apache/kafka/2.2.0/kafka_2.11-2.2.0.tgz
 tar -xf kafka_2.11-2.2.0.tgz
 ```
 
-下图是解压后的目录内容
+下图是解压后的目录内容   
 
 ![](https://ws2.sinaimg.cn/large/006tNc79gy1g2du4vayogj31g807u0uy.jpg)
 
